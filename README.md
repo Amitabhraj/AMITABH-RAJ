@@ -14,21 +14,6 @@
 
 
 
-<style>
-    .div-1 {
-        background-color: 1BE5F2;
-</style>
-    <div style="line-height:0px">
-    <div class="div-1">
-    <p style="line-height:1px;font-size:20px;text-align:right;position:relative;top:65px;margin-right:2em;">(Resume made using <u>HTML)</u></p>
-    <p style="font-size:73px;text-align:center;top:1px;position:relative;top:-10px;">Amitabh Raj</p>
-    <p style="line-height:-200px;text-align:center;font-size:23px;font-style:regular;position:relative;top:-20px;"><a>abhiraj1709w@gmail.com || (91+)8409913276 || Patna,Bihar(India) ||<a class="navbar-brand" href="https://github.com/Amitabhraj">Github Profile</a></p></div>
-    <p style="border-bottom:4px solid black;font-size:0px;relative;position:relative;top:-23px;"></p></div>
-    </div>
-
-
-
-
 
 <h1><p style="position:relative;top:-50px;margin-left:1em;">OBJECTIVE:</p></h1>
     <p style="font-size:25px;position:relative;top:-50px;margin-left:1em;">I am a high school student who does not have a college degree but have a good knowledge about Programing Skills and have exeptional ability.i seek a internship in fastest growing electric car making company as software engineer.I wish to Contribute Organisation Goals through my Technical Skills, Hardworking and Creativity and i wish to learning something new and diffrent in my life which i can't learn <br> at home and school.</p>
