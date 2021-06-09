@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amitabh Raj</h1>
-<h3 align="center">A passionate python developer and small web developer from India.</h3>
+<h2 align="center">A passionate python developer and small web developer from India.</h2>
 
 <a href="mailto:"><img src="https://www.webspreadtech.com/images/python-banner.jpg" class="d-block w-100" alt="..."></a>
 
