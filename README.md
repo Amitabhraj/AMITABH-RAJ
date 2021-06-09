@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amitabh Raj</h1>
 <h3 align="center">A passionate python developer and small web developer from India.</h3>
 
-<a href="mailto:"><img src="https://previews.123rf.com/images/jsddesign/jsddesign1503/jsddesign150300021/38113993-welcome-title.jpg" class="d-block w-100" alt="..."></a>
+<a href="mailto:"><img src="https://www.ogwinnersbuy.com/wp-content/uploads/2020/08/realwelcome.jpg" class="d-block w-100" alt="..."></a>
 
 - 🌱 I’m currently learning **Artficial Intelligence,Machine Learning and Data Science**
 
