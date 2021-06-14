@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amitabh Raj</h1>
 <h2 align="center">A passionate python and small web developer from India.</h2>
 
-<a href="mailto:"><img src="https://jobaxes.com/wp-content/uploads/2021/05/Python-Developer-at-P.jpg" class="d-block w-100" alt="..."></a>
+<a href="mailto:"><img src="https://research.aimultiple.com/wp-content/uploads/2019/07/Python-logo.jpg" class="d-block w-100" alt="..."></a>
 
 - 🌱 I’m currently learning **Artficial Intelligence,Machine Learning and Data Science**
 
