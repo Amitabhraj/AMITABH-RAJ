@@ -3,7 +3,7 @@
 
 <a href="mailto:"><img src="http://sspinnovations.com/wp-content/uploads/2017/12/156274_BlogPostFeatureImage18_120617.jpg" class="d-block w-100" width=100% alt="..."></a>
 
-- 🌱 I’m currently learning **Artficial Intelligence,Machine Learning and Data Science**
+- 🌱 I’m currently learning **Artficial Intelligence, Machine Learning and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amitabhraj?tab=repositories](https://github.com/Amitabhraj?tab=repositories)
 
