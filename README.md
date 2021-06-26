@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amitabh Raj</h1>
 <h2 align="center">A passionate python and small web developer from India.</h2>
 
-<a href="mailto:"><img src="http://content.timesjobs.com/img/75447920/Master.jpg" class="d-block w-100" width=100% height=360px alt="..."></a>
+<a href="mailto:"><img src="http://content.timesjobs.com/img/75447920/Master.jpg" class="d-block w-100" width=1920px height=100% alt="..."></a>
 
 - 🌱 I’m currently learning **Artficial Intelligence, Machine Learning and Data Science**
 
