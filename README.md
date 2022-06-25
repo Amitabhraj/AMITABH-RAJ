@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amitabhraj?tab=repositories](https://github.com/Amitabhraj?tab=repositories)
 
-- 📫 How to reach me **Abhiraj1709w@gmail.com**
+- 📫 How to reach me **abhiraj1709w@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
